@@ -1,4 +1,3 @@
-```markdown
 # Integration Flow Technical Specification
 
 This document provides a detailed technical specification for the integration flow, outlining each process and step involved. It is designed to help new team members understand the logic and flow of the integration.
